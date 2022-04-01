@@ -1,0 +1,7 @@
+class Product
+{
+ public void launchProduct()
+ {
+    System.out.println("Product launched Sucessfully");
+ }
+}
